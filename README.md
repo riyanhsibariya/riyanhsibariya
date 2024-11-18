@@ -32,11 +32,10 @@ I enjoy exploring **Artificial Intelligence**, **Machine Learning, NLP**, and **
    <img src="https://media.licdn.com/dms/image/v2/D4D22AQGsslLb-3eq6Q/feedshare-shrink_800/feedshare-shrink_800/0/1707318074257?e=1734566400&v=beta&t=QOfxccVjc0vF95EqaRUMtwcS0At5lr-MfGuoc2K_rBo" alt="E'Conclave Technology Presentation" width="150"/>  
    _Recognized for my innovative skills in technology presentation._  
 
-3. **Selected for American Express India Campus Discovery Program (2023)**  
-   <img src="https://via.placeholder.com/150" alt="American Express Campus Program" width="150"/>  
+3. **Selected for American Express India Campus Discovery Program (2023)**    
    _Chosen from over 5,000 students for outstanding potential._  
 
-4. **Featured in Times of India & Dainik Bhaskar for SehatSathi (2023)**  
+4. **Featured in Times of India & Dainik Bhaskar for Presenting SehatSathi at an International Conference (2023)**  
    <img src="https://media.licdn.com/dms/image/v2/D4D22AQEgT8drqdc1Sg/feedshare-shrink_800/feedshare-shrink_800/0/1697605206460?e=1734566400&v=beta&t=VrEKjs4zQazpkKp4OomogvcMhrCd-7tz7gqBxpMwLew" alt="SehatSathi in Media" width="150"/>  
    _Highlighted for innovative solutions in healthcare._
    - 📰 Read more: [Featured in Times of India](https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/indore/smart-dispensers-to-notify-users-of-missed-med-doses/amp_articleshow/105740709.cms)
