@@ -25,7 +25,7 @@ I enjoy exploring **Artificial Intelligence**, **Machine Learning, NLP**, and **
 
 ### 🏆 Achievements  
 1. **Winner at Vigyan Parv for Research Poster Competition (2024)**  
-   <img src="https://media.licdn.com/dms/image/v2/D4D2DAQHvw423nMSl4Q/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1718438962564?e=1732536000&v=beta&t=PW8rOJHkRlkkWrbdHW9FHkwbbdO_EpB6NddcpfUwJDE" alt="Winner of Vigyan Parv" width="150"/>  
+   <img src="https://media.licdn.com/dms/image/v2/D4D2DAQHvw423nMSl4Q/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1718438962564?e=1733288400&v=beta&t=opk49M19A4laf2ypSx1aqR2P0xPYcP0IhxlMxV1XGDo" alt="Winner of Vigyan Parv" width="150"/>  
    _Showcased innovative research methodologies to industry experts._  
 
 2. **Top 4 at E'Conclave, IIT Jodhpur for Technology Presentation (2024)**  
